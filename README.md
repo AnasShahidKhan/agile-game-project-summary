@@ -29,10 +29,11 @@ These are the same bullets from my CV. As **Project Coordinator & Testing Manage
 
 ### ## Gallery
 
-![Menu Screenshot]("diamond-rush-menu.png")
+Menu Screenshot
+![Menu Screenshot](https://github.com/user-attachments/assets/b1689b80-d941-4611-975a-4450781ac4c7)
 
+LeaderBoard Screenshot
+![LeaderBoard Screenshot](https://github.com/user-attachments/assets/e983fbe5-8ad6-4eec-ab55-a412b17672ad)
 
-![LeaderBoard Screenshot]("diamond-rush-leaderboard.png")
-
-
-![in-Game Screenshot]("diamond-rush-game-sight.png")
+in-Game Screenshot
+![in-Game Screenshot](https://github.com/user-attachments/assets/609edb8f-14b0-4bc4-b049-6dfad2bde4f6)
